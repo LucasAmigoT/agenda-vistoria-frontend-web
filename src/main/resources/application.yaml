@@ -4,9 +4,9 @@ server:
 spring:
     datasource:
         platform: postgres
-        url: jdbc:postgresql://localhost:5432/tpobras
-        username: postgres
-        password: lucas123
+        url: ${DATABASE_URL}
+        username: ${DATABASE_USERNAME}
+        password: ${DATABASE_PASSWORD}
         driverClassName: org.postgresql.Driver
 
     sql:
