@@ -25,3 +25,26 @@ Para configurar e rodar este projeto localmente:
 Java Development Kit (JDK): Versão 21.0.1 ou superior.
 
 PostgreSQL Server: Versão 15 ou superior.
+
+✨ Principais Funcionalidades Atuais
+O sistema, em sua fase atual, oferece as seguintes funcionalidades principais:
+
+Cadastro de Clientes:
+
+Registro e manutenção de uma base de dados completa de clientes.
+
+Informações chave: Nome/Razão Social, Contacto, Endereço.
+
+Listagem de Clientes:
+
+Visualização clara e organizada de todos os clientes cadastrados.
+
+Cadastro de Obras por Cliente:
+
+Associação direta de múltiplos projetos (obras) a um cliente específico.
+
+Informações chave da Obra: Título do Projeto, Localização, Status Inicial.
+
+Listagem de Obras:
+
+Capacidade de listar todas as obras em andamento ou concluídas, filtradas por cliente.
